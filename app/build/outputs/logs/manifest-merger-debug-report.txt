@@ -1,122 +1,122 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
-MERGED from [com.android.support:design:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\57ac3acf48777fe6e7217c94d9d5e9a5\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\f6889fa82f7e3eae22016b4408a06300\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a6a013967dd704e6ef1fce87e05e470b\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\c2e45ed143063e9ea955df250a35d4ef\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\fbc191280989f36d1883476b7926756f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\26ee663045f5a6bb719f66d527678782\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d56799d25052ffc06b0aba76708691a\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+MERGED from [com.android.support:design:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\2fef0958d99b2a299ec6dd2f5d4ad97c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\27d3e304e312fb601c1b8ec6e6968ee5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\802530db9e7f18c6b9a9253c762e99b3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\98ed1ae2c2b58360d78d91ce1ecef5b1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\e9f5c027573f0406953293fa41cbb87a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\a089e5c96e1a42791b89692ba856c596\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\George\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b87742be3678b0fbafc095cbf8a7bad\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
 	package
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:17:5-40
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:17:5-40
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:1-42:12
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:16:11-69
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:16:11-69
 application
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:19:5-40:19
-MERGED from [com.android.support:design:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\57ac3acf48777fe6e7217c94d9d5e9a5\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\57ac3acf48777fe6e7217c94d9d5e9a5\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\f6889fa82f7e3eae22016b4408a06300\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\f6889fa82f7e3eae22016b4408a06300\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a6a013967dd704e6ef1fce87e05e470b\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a6a013967dd704e6ef1fce87e05e470b\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\c2e45ed143063e9ea955df250a35d4ef\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\c2e45ed143063e9ea955df250a35d4ef\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\26ee663045f5a6bb719f66d527678782\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\26ee663045f5a6bb719f66d527678782\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d56799d25052ffc06b0aba76708691a\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d56799d25052ffc06b0aba76708691a\AndroidManifest.xml:9:5-20
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:19:5-40:19
+MERGED from [com.android.support:design:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\2fef0958d99b2a299ec6dd2f5d4ad97c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\2fef0958d99b2a299ec6dd2f5d4ad97c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\27d3e304e312fb601c1b8ec6e6968ee5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\27d3e304e312fb601c1b8ec6e6968ee5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\802530db9e7f18c6b9a9253c762e99b3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\802530db9e7f18c6b9a9253c762e99b3\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\98ed1ae2c2b58360d78d91ce1ecef5b1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\98ed1ae2c2b58360d78d91ce1ecef5b1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\a089e5c96e1a42791b89692ba856c596\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\a089e5c96e1a42791b89692ba856c596\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\George\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b87742be3678b0fbafc095cbf8a7bad\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\George\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b87742be3678b0fbafc095cbf8a7bad\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:22:9-41
 	android:icon
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:24:9-40
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:24:9-40
 activity#com.example.android.miwok.MainActivity
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:25:9-31:20
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:25:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:29:27-74
 activity#com.example.android.miwok.PhrasesActivity
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:32:9-33:38
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:32:9-33:38
 	android:label
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:33:13-36
 	android:name
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:32:19-50
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:32:19-50
 activity#com.example.android.miwok.NumbersActivity
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:34:9-35:38
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:34:9-35:38
 	android:label
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:35:13-36
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:35:13-36
 	android:name
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:34:19-50
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:34:19-50
 activity#com.example.android.miwok.FamilyActivity
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:36:9-37:45
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:36:9-37:45
 	android:label
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:37:13-43
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:37:13-43
 	android:name
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:36:19-49
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:36:19-49
 activity#com.example.android.miwok.ColorsActivity
-ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:38:9-39:37
+ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:38:9-39:37
 	android:label
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:39:13-35
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:39:13-35
 	android:name
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml:38:19-49
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml:38:19-49
 uses-sdk
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\57ac3acf48777fe6e7217c94d9d5e9a5\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\57ac3acf48777fe6e7217c94d9d5e9a5\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\f6889fa82f7e3eae22016b4408a06300\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\f6889fa82f7e3eae22016b4408a06300\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a6a013967dd704e6ef1fce87e05e470b\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\a6a013967dd704e6ef1fce87e05e470b\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\c2e45ed143063e9ea955df250a35d4ef\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\c2e45ed143063e9ea955df250a35d4ef\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\fbc191280989f36d1883476b7926756f\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\fbc191280989f36d1883476b7926756f\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\26ee663045f5a6bb719f66d527678782\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\26ee663045f5a6bb719f66d527678782\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d56799d25052ffc06b0aba76708691a\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7d56799d25052ffc06b0aba76708691a\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\2fef0958d99b2a299ec6dd2f5d4ad97c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\design-23.3.0.aar\2fef0958d99b2a299ec6dd2f5d4ad97c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\27d3e304e312fb601c1b8ec6e6968ee5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\27d3e304e312fb601c1b8ec6e6968ee5\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\802530db9e7f18c6b9a9253c762e99b3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.3.0.aar\802530db9e7f18c6b9a9253c762e99b3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\98ed1ae2c2b58360d78d91ce1ecef5b1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.3.0.aar\98ed1ae2c2b58360d78d91ce1ecef5b1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\e9f5c027573f0406953293fa41cbb87a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.3.0.aar\e9f5c027573f0406953293fa41cbb87a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\a089e5c96e1a42791b89692ba856c596\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\support-v4-23.3.0.aar\a089e5c96e1a42791b89692ba856c596\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\George\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b87742be3678b0fbafc095cbf8a7bad\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\George\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\9b87742be3678b0fbafc095cbf8a7bad\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\georg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\f6889fa82f7e3eae22016b4408a06300\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\George\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.3.0.aar\27d3e304e312fb601c1b8ec6e6968ee5\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\georg\Documents\Programming\Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documents\School\Programming\Android Projects\Udacity-Miwok\app\src\main\AndroidManifest.xml

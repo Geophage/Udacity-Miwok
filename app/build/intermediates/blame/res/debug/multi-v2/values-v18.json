@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\georg\\Documents\\Programming\\Miwok\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "D:\\Documents\\School\\Programming\\Android Projects\\Udacity-Miwok\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\georg\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\f6889fa82f7e3eae22016b4408a06300\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\George\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\27d3e304e312fb601c1b8ec6e6968ee5\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
